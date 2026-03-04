@@ -1,4 +1,3 @@
-# GreenClassify--vegetable-classification-system
 # GreenClassify - A Deep Learning Based Approach For Vegetable Classification
 ## 📌 Project Overview
 This project is a **deep learning-based image classification system** that **identifies different types of vegetables from images.** <br>
